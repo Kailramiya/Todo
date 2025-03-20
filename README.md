@@ -1,8 +1,5 @@
 # ✅ Todo App using React
 
-## 🔗 [Live Demo](#)  
-(Add your deployed link here)
-
 ## 📌 Overview
 A simple **Todo App** built using **React & Hooks** that allows users to **add, view, and delete** tasks dynamically. The app features a clean UI with responsive components.
 
@@ -20,7 +17,7 @@ A simple **Todo App** built using **React & Hooks** that allows users to **add, 
 
 ## 📂 Project Structure
   ```ssh
-    ├── src/ │ ├── components/ │ │ ├── AppName.jsx │ │ ├── AddTodo.jsx │ │       ├── TodoItem.jsx │ │ ├── TodoItems.jsx │ │ ├── WelcomeMsg.jsx │ ├──           styles/ │ │ ├── App.css │ │ ├── AppName.module.css │ │ ├──               WelcomeMsg.module.css │ ├── App.jsx │ ├── index.js ├── package.json ├── README.md
+    ├── src/ │ ├── components/ │ │ ├── AppName.jsx │ │ ├── AddTodo.jsx │ │ ├── TodoItem.jsx │ │ ├── TodoItems.jsx │ │ ├── WelcomeMsg.jsx │ ├── styles/ │ │ ├── App.css │ │ ├── AppName.module.css │ │ ├── WelcomeMsg.module.css │ ├── App.jsx │ ├── index.js ├── package.json ├── README.md
 ```
 ## 📦 Installation & Setup
 1. **Clone the repository**
@@ -36,3 +33,11 @@ A simple **Todo App** built using **React & Hooks** that allows users to **add, 
     npm run dev
 4. **Open in Browser**
     Navigate to http://localhost:3000 to view the app.
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/67b94d11-bb88-4a32-9a2e-3df4326e8cb9)
+![image](https://github.com/user-attachments/assets/cf41e8f8-7c10-4e6f-905f-1955e6fa8f83)
+
+**Aman Kumar<br>Officialamankundu@gmail.com**
+
+
