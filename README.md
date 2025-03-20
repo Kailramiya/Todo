@@ -16,7 +16,7 @@ A simple **Todo App** built using **React & Hooks** that allows users to **add, 
 - **Bootstrap (optional for styling)** 💅
 
 ## 📂 Project Structure
-  ```bash
+  ```
 ├── src/ │ ├── components/ │ │ ├── AppName.jsx │ │ ├── AddTodo.jsx │ │ ├── TodoItem.jsx │ │ ├── TodoItems.jsx │ │ ├── WelcomeMsg.jsx │ ├── styles/ │ │ ├── App.css │ │ ├── AppName.module.css │ │ ├── WelcomeMsg.module.css │ ├── App.jsx │ ├── index.js ├── package.json ├── README.md
   ```
 ## 📦 Installation & Setup
