@@ -17,7 +17,21 @@ A simple **Todo App** built using **React & Hooks** that allows users to **add, 
 
 ## 📂 Project Structure
   ```
-├── src/ │ ├── components/ │ │ ├── AppName.jsx │ │ ├── AddTodo.jsx │ │ ├── TodoItem.jsx │ │ ├── TodoItems.jsx │ │ ├── WelcomeMsg.jsx │ ├── styles/ │ │ ├── App.css │ │ ├── AppName.module.css │ │ ├── WelcomeMsg.module.css │ ├── App.jsx │ ├── index.js ├── package.json ├── README.md
+├── src/
+│ ├── components/
+│ │ ├── AppName.jsx
+│ │ ├── AddTodo.jsx
+│ │ ├── TodoItem.jsx
+│ │ ├── TodoItems.jsx
+│ │ ├── WelcomeMsg.jsx
+│ ├── styles/
+│ │ ├── App.css
+│ │ ├── AppName.module.css
+│ │ ├── WelcomeMsg.module.css
+│ ├── App.jsx
+│ ├── index.js
+├── package.json
+├── README.md
   ```
 ## 📦 Installation & Setup
 1. **Clone the repository**
