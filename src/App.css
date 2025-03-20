@@ -1,0 +1,15 @@
+
+input{
+  width: 100%;
+}
+.items-container{
+  text-align: left;
+}
+.ak-row{
+  margin: 8px 5px;
+}
+.ak-button{
+  min-width: 80px;
+  /* width: 70px; */
+  float: left;
+}
