@@ -1,5 +1,7 @@
+const API_BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:3001";
+
 export const addItemToServer = async (task, date) => {
-  const response = await fetch("http://localhost:3001/api/todo", {
+  const response = await fetch(`${API_BASE_URL}/api/todo`, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
