@@ -6,7 +6,7 @@ const cors= require('cors');
 const bodyParser = require('body-parser');
 
 const app = express();
-const DB_PATH = "mongodb+srv://amankundu:MongoDb12345@cluster0.ismomzo.mongodb.net/todo?retryWrites=true&w=majority&appName=Cluster0";
+const DB_PATH = Your_database_path;
 
 app.use(cors());
 app.use(express.json());
